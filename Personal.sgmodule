@@ -1,0 +1,5 @@
+#!name=个人分流覆盖
+#!desc=配合 LingJingMaster 的 Shadowrocket.conf 使用
+
+[Rule]
+DOMAIN-WILDCARD,*.shinelin.net,🇺🇸 美国节点
